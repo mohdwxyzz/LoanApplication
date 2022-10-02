@@ -13,3 +13,7 @@ Step 3:-Run the command php artisan passport:install
 Step 4:-Run the command php artisan migrate
 Step 5:-Run the command php artisan serve
 Step 6:Run the api 
+
+## POSTMAN Collection link
+https://www.getpostman.com/collections/2455c714e26d86fbd7bb
+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
